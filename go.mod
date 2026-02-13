@@ -1,6 +1,6 @@
 module github.com/sassoftware/go-rpmutils
 
-go 1.21
+go 1.25.7
 
 require (
 	github.com/DataDog/zstd v1.5.5
