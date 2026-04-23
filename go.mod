@@ -1,6 +1,6 @@
 module github.com/sassoftware/go-rpmutils
 
-go 1.21
+go 1.25.0
 
 require (
 	github.com/DataDog/zstd v1.5.5
@@ -10,7 +10,7 @@ require (
 	github.com/ulikunitz/xz v0.5.12
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8
 	go.uber.org/goleak v1.3.0
-	golang.org/x/sys v0.20.0
+	golang.org/x/sys v0.43.0
 )
 
 require (
