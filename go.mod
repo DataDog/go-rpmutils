@@ -2,6 +2,8 @@ module github.com/sassoftware/go-rpmutils
 
 go 1.21
 
+toolchain go1.26.2
+
 require (
 	github.com/DataDog/zstd v1.5.5
 	github.com/ProtonMail/go-crypto v1.0.0
